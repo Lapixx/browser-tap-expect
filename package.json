@@ -1,0 +1,30 @@
+{
+  "name": "browser-tap-expect",
+  "version": "0.0.1",
+  "description": "Combining the powers of both browser-tap and tape-expect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lapixx/browser-tap-expect.git"
+  },
+  "keywords": [
+    "tap",
+    "tape",
+    "expect",
+    "assertion",
+    "unit",
+    "test"
+  ],
+  "author": "Tijn Kersjes <tijn@divbyzero.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lapixx/browser-tap-expect/issues"
+  },
+  "homepage": "https://github.com/Lapixx/browser-tap-expect#readme",
+  "dependencies": {
+    "tape-expect": "^1.2.0"
+  }
+}
